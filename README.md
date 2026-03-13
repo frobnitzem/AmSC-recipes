@@ -5,6 +5,8 @@ This is a collection of "Hello World" recipes for using IRI and AmSC tools.
 The development status of each tool is listed below.
 
  - iri-facility-api/hello-status (uses status.py): working
+ 
+    See also, https://github.com/doe-iri/iri-facility-api-examples
 
  - inference/completions.py: working
 
